@@ -80,7 +80,7 @@ end
 이런 식으로 id를 통하여 게시글을 찾고 반환하여 @article instance variable에 저장하여, view를 통해 접근 할 수 있다.<br>
 app/views/articles/shows.html.erb :
 
-```
+```Ruby
 <h1><%= @article.title %></h1>
 
 <p><%= @article.body %></p>
@@ -90,7 +90,7 @@ app/views/articles/shows.html.erb :
 <br>
 app/views/articels/index.html.erb
 
-```
+```Ruby
 <h1>Articles</h1>
 
 <ul>
@@ -108,9 +108,9 @@ app/views/articels/index.html.erb
 
 **따라서 RoR의 주요 작동구조인 MVC 패턴을 정리하자면,**<br>
 
-**1. route로 사용자의 request를 controller의 mapping**
-**2. mapping된 controller에서 action 수행, model/view에 반영**
-**3. action은 model/view에 반영되어 사용자가 request한 것의 결괏값을 받을 수 있음(erb -> html)**
+**1. route로 사용자의 request를 controller의 mapping**<br>
+**2. mapping된 controller에서 action 수행, model/view에 반영**<br>
+**3. action은 model/view에 반영되어 사용자가 request한 것의 결괏값을 받을 수 있음(erb -> html)**<br>
 
 model에 관한 설명이 빈약한 것 같긴 한데, 이런 식으로 MVC패턴이 작동한다. 후에 스터디가 진행됨에 따라 점차 MVC패턴에 대한 글을 업데이트 하겠다.
 
