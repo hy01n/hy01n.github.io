@@ -28,8 +28,8 @@ int main(){
     // int i=0;
     // int n=1;
     // while(1){
-    //     scanf("%1d",&arr[i]);
-    //     if(!isdigit(arr[i])){
+    //     scanf("%1d",&arr[i]);    =>    scanf("%c",&arr[i])
+    //     if(!isdigit(arr[i])){    =>
     //         n=i;
     //         break;
     //     }
