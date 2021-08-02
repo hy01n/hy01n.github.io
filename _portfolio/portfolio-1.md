@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Kakaotalk -> Line -> Life"
+excerpt: "This is a simple web chatting application. I attached rails on HTML/CSS.<br/><img src='/images/portfolio-life/life-chat.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![life3](../images/portfolio-life/life-login.png)
+![life4](../images/portfolio-life/life-friends.png)
+![life1](../images/portfolio-life/life-chat.png)
+![life2](../images/portfolio-life/life-chats.png)
+![life5](../images/portfolio-life/life-more.png)
+![life6](../images/portfolio-life/life-search.png)
+![life7](../images/portfolio-life/life-settings.png)
