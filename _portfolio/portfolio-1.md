@@ -1,6 +1,6 @@
 ---
-title: "Kakaotalk -> Line -> Life"
-excerpt: "This is a simple web chatting application. I attached rails on HTML/CSS.<br/><img src='/images/portfolio/life/life-chat.png' width="300" height="416">"
+title: "Life"
+excerpt: "Simple web chatting application: HTML/CSS X Rails<br/><img src='/images/portfolio/life/life-chat.png' width="300" height="416">"
 collection: portfolio
 ---
 
