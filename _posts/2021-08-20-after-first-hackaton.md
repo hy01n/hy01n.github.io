@@ -11,7 +11,7 @@ tags:
 
 오늘 나의 첫 해커톤이었던 오아시스 해커톤이 끝났다. 비록 수상은 하지 못하였지만, 일주일 가량을 밤을 지새면서 얻은 것도 많고 느낀 점도 많아서 한번 돌아보는 시간을 가지고자 한다. 시간순으로 서술한 뒤 프로젝트 README를 불러오며 총정리를 하겠다. 해커톤에 처음 참가하는 이들에게 도움이 되길 바란다. 해커톤은 다음 스케쥴에 따라 진행되었다.
 
-![schedule](https://salty-devourer-b69.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd7d405c2-a9e0-482c-a3fc-6b2aaa55b2bd%2FUntitled.png?table=block&id=45b4a25f-5b26-4cbb-b025-e6976590fd57&spaceId=7d7a7bb9-3f44-4d86-b22c-26a3c71b875c&width=1540&userId=&cache=v2 "해커톤 스케쥴")
+![schedule](https://salty-devourer-b69.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd7d405c2-a9e0-482c-a3fc-6b2aaa55b2bd%2FUntitled.png?table=block&id=45b4a25f-5b26-4cbb-b025-e6976590fd57&spaceId=7d7a7bb9-3f44-4d86-b22c-26a3c71b875c&width=1540&userId=&cache=v2)
 
 ## 해커톤 시작 전
 
